@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lxj.icxlmvvm.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lxj.icxlmvvm.MyBundle
 
 class MyApplicationService {
 
